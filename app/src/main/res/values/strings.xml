@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScrollingTextView</string>
+    <string name="heading">Training for Android and web developers</string>
+    <string name="message">Want to create responsive, flexible, beautiful apps for mobile or web platforms? You\'re in the right place.</string>
+    <string name="body">Whether you\'re an experienced developer or just getting started, we can point you to training that will help you develop high-quality apps that are both useful and marketable. Choose from end-to-end training created by the https://developers.google.com/certification team, materials and tutorials for self-study, online courses and Nanodegrees through Udacity, and more. And when you\'re ready, you can take a Google Developers Certification exam to gain recognition for your development skills. Start today!</string>
+</resources>
